@@ -35,7 +35,7 @@ const Hero = () => {
         <div className="flex items-center justify-center">
           <div className="lg:grid grid-cols-1 gap-10 flex mt-10 lg:mt-0">
           <a href="https://www.linkedin.com/company/generalaisolutions/" className="text-2xl"><FaLinkedinIn /></a>
-          <a href="mailto:" className="text-2xl"><BiLogoGmail /></a>
+          <a href="mailto:axolotron.ai@gmail.com" className="text-2xl"><BiLogoGmail /></a>
           <a href="https://www.instagram.com/axolotron?igsh=Y2doa3VtdGh5MWVl" className="text-2xl"><AiFillInstagram /></a>
           </div>
         </div>
