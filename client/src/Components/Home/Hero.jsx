@@ -28,7 +28,7 @@ const Hero = () => {
           />
           <div className="flex justify-center mt-[-50px]">
           <div className="bg-white/20 rounded-xl p-5 max-w-[200px] text-center">
-            We Make , We build , We Build
+            We Make , We build , We Develop
           </div>
           </div>
         </div>
