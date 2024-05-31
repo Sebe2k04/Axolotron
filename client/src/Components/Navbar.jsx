@@ -33,7 +33,7 @@ const Navbar = () => {
           </Link>
         </div>
         <div className="flex items-center lg:hidden">
-        <RiMenu4Line className="text-2xl" />
+        <RiMenu4Line className="text-2xl " onClick={toggleDrawer(true)} />
         </div>
       </div>
       <Drawer open={open} onClose={toggleDrawer(false)} className="">
